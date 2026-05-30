@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/anthropics/anthropic-sdk-go v1.46.0
-	github.com/brunoochoa/goai v0.0.0
+	github.com/brunoochoa/goai v0.1.0
 )
 
 require (
@@ -21,5 +21,3 @@ require (
 	golang.org/x/sync v0.16.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/brunoochoa/goai => ../..
