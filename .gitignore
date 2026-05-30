@@ -1,0 +1,30 @@
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin/
+/dist/
+
+# Test output
+*.test
+*.out
+coverage.html
+coverage.txt
+
+# Ambiente e segredos — NUNCA commitar keys
+.env
+.env.*
+*.key
+*.pem
+
+# Go workspace overrides locais
+go.work.local
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

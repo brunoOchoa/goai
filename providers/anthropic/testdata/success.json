@@ -1,0 +1,10 @@
+{
+  "id": "msg_01XFDUDYJgAACzvnptvVoYEL",
+  "type": "message",
+  "role": "assistant",
+  "content": [{"type": "text", "text": "Olá! Como posso ajudar?"}],
+  "model": "claude-sonnet-4-5",
+  "stop_reason": "end_turn",
+  "stop_sequence": null,
+  "usage": {"input_tokens": 10, "output_tokens": 8, "cache_read_input_tokens": 0}
+}

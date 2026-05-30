@@ -1,0 +1,9 @@
+go 1.26.0
+
+use (
+	.
+	./providers/anthropic
+	./providers/compat
+	./providers/gemini
+	./providers/openai
+)
